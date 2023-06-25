@@ -1,4 +1,4 @@
-# Trabajo final del curso de Redes y Comunicacion de Datos
+# Trabajo final del curso de Redes y Comunicación de Datos
 <p align="center">
   <img src="https://github.com/BinaryCode-wave/Parcial/blob/main/imgs/UPC.png" alt="UPC">
 </p>
