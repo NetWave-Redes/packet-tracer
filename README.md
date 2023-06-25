@@ -9,20 +9,20 @@ La empresa NetWave es una organización dedicada a brindar servicios de comunica
 ## Integrantes
 
 ### Carrillo Mainicta Michael 
-![Michael Carrilo](https://github.com/NetWave-Redes/packet-tracer/blob/main/resources/imgs/contributors/Lennin.png)
+![Michael Carrilo](https://github.com/NetWave-Redes/packet-tracer/blob/main/resources/imgs/Michael.png)
 
 ### Guerrero Huari Cesar Alejandro
-![Cesar Guerrero](https://github.com/NetWave-Redes/packet-tracer/blob/main/resources/imgs/contributors/Lennin.png)
+![Cesar Guerrero](https://github.com/NetWave-Redes/packet-tracer/blob/main/resources/imgs/Alejandro.png)
 
 ### Huaman Huaranga Lennin Daniel
-![Lennin Huaman](https://github.com/NetWave-Redes/packet-tracer/blob/main/resources/imgs/contributors/Lennin.png)
+![Lennin Huaman](https://github.com/NetWave-Redes/packet-tracer/blob/main/resources/imgs/Lennin.png)
 
 
 ### Mendoza Ramos Dominik Aldahir Alexis
-[![Dominik Mendoza](https://github.com/NetWave-Redes/packet-tracer/blob/main/resources/imgs/contributors/Dominik.png)](https://www.linkedin.com/in/dominik-mendoza-ramos-91496a224/)
+[![Dominik Mendoza](https://github.com/NetWave-Redes/packet-tracer/blob/main/resources/imgs/Dominik.png)](https://www.linkedin.com/in/dominik-mendoza-ramos-91496a224/)
 
 ### Moreno Vergara Johan Raúl  	
-![Michael Carrilo](https://github.com/NetWave-Redes/packet-tracer/blob/mainresources//imgs/contributors/Lennin.png)
+![Johan Moreno](https://github.com/NetWave-Redes/packet-tracer/blob/main/resources/imgs/Johan.png)
 
 
 ## Recomendaciones
